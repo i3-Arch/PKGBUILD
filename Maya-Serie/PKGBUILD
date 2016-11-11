@@ -1,7 +1,7 @@
 #Maintainer: Jeremy Marlow <i3_arch[at]archlinux.info>
 #Contributor: Author: Marko Haro - Found theme via MARKITOS66
 
-pkgname=Xcursor-MayaSerie-Red
+pkgname=xcursor-mayaserie-red
 pkgver=2016.11.10
 pkgrel=1
 pkgdesc="Maya Serie Red cursor theme"
